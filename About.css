@@ -1,0 +1,28 @@
+html, body {
+    background-color: #002447;
+    min-height: 100%;
+    margin: 0;
+}
+
+
+h1 {
+     background-color: #002447;
+    color: #65C9F5;
+
+}
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: white !important;
+}
+
+
+
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
