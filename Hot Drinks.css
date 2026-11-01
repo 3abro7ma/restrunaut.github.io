@@ -1,0 +1,29 @@
+
+html, body {
+    background-color: #002447;
+    min-height: 100%;
+    margin: 0;
+}
+
+
+h1 {
+     background-color: #002447;
+    color: #65C9F5;
+
+}
+
+
+
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+
+h2 {
+     
+    color: #65C9F5; !important;
+}
